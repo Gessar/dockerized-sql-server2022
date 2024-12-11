@@ -1,4 +1,4 @@
-# Dockerized SQL-Server 2019
+# Dockerized SQL-Server 2022
 Mounts .mdf databases in a dockerized sql-server instance.
 
 ## Run it
